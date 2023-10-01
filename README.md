@@ -8,5 +8,7 @@ Also, you will need to add the Adafruit CircuitPython library.
 Requires:
 - [CircuitPython Pico core](https://circuitpython.org/board/raspberry_pi_pico/). See [Adafruit CircuitPython for Pico Guide](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython) for more info.
 - [CircuitPython HID Library](https://learn.adafruit.com/circuitpython-essentials/circuitpython-hid-keyboard-and-mouse)
+- A micro USB cable(and adapter if needed)
+- [A Sprig!](https://sprig.hackclub.com)
 
 
