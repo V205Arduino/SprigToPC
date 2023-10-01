@@ -6,6 +6,6 @@ Also, you will need to add the Adafruit CircuitPython library.
 (More info soon.... )
 
 Requires:
-- [Adafruit CircuitPython for Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython)
+- [CircuitPython Pico core](https://circuitpython.org/board/raspberry_pi_pico/) [Adafruit CircuitPython for Pico Guide] (https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython)
 
 
