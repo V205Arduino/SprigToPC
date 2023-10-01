@@ -5,4 +5,7 @@ You will need to install CircuitPython on the Pico.
 Also, you will need to add the Adafruit CircuitPython library.
 (More info soon.... )
 
+Requires:
+- [Adafruit CircuitPython for Pico](https://learn.adafruit.com/getting-started-with-raspberry-pi-pico-circuitpython/circuitpython)
+
 
