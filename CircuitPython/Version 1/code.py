@@ -64,6 +64,11 @@ x = 0
 timeBetweenKeystrokes = 0.2
 # print("Debug test!")
 
+
+
+#def checkButton(buttonstate, Keycode ):
+    #todo make better code 
+
 while True:
     # print("loop debug")
 
